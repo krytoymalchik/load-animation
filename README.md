@@ -1,1 +1,1 @@
-# load-animation
+смотреть тут - https://krytoymalchik.github.io/load-animation/
